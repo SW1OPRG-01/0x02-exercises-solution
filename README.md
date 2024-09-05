@@ -1,2 +1,1 @@
-# dev-setup
-Developer environment for SW1OPRG-01
+# Exercises for week 0x02
